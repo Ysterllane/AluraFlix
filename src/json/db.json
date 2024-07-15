@@ -1,0 +1,196 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Counter-Strike 2",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Counter_Strike_2_Logo.png",
+      "link": "https://www.youtube.com/embed/nSE38xjMLqE",
+      "system": "PC",
+      "description": "CS:GO é um FPS da Valve disputado entre duas equipes. Elas se revezam entre terroristas e contra terroristas, os terroristas armam a bomba enquanto o outro time protege os sites, locais onde os explosivos devem ser plantados. Alguns mapas funcionam com reféns, que por sua vez devem ser salvos pelos contra terroristas."
+    },
+    {
+      "id": 2,
+      "title": "SoulMask",
+      "cover": "https://www.gamersegames.com.br/wp-content/uploads/2024/05/Soulmask-1.webp",
+      "link": "https://www.youtube.com/embed/wLquSWKdxrc",
+      "system": "PC",
+      "description": "Em Soulmask, um jogo de sobrevivência, você pode se fundir com membros de sua tribo para adquirir suas habilidades e explorar antigas civilizações enquanto descobre novas máscaras com habilidades únicas. Desafie seu destino neste território primitivo!"
+    },
+    {
+      "id": 3,
+      "title": "Playerunknown's battlegrounds",
+      "cover": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-1e9a7.jpg",
+      "link": "https://www.youtube.com/embed/URBy9t6e8rY",
+      "system": "PC",
+      "description": "PUBG: BATTLEGROUNDS é um battle royale de tiro que coloca 100 jogadores uns contra os outros até que o último sobreviva. Encontre e pilhe armas, veículos e itens no campo de batalha que se estreita lentamente, e ultrapasse os seus oponentes para se tornar o último sobrevivente."
+    },
+    {
+      "id": 4,
+      "title": "Elder Ring",
+      "cover": "https://assets.xboxservices.com/assets/1d/5b/1d5bc84f-2135-4e2f-8ca6-bb000d97db7f.jpg?n=Elden-Ring_GLP-Poster-Image-1084_1920x1080.jpg",
+      "link": "https://www.youtube.com/embed/E3Huy2cdih0",
+      "system": "PC",
+      "description": "ELDEN RING, desenvolvido pela FromSoftware, Inc. e pela BANDAI NAMCO Entertainment Inc., é uma aventura de RPG de ação e fantasia ambientada em um mundo criado por Hidetaka Miyazak e George R. R. Martin. O perigo e a descoberta estão à espreita em cada canto do maior jogo da FromSoftware até hoje."
+    },
+    {
+      "id": 5,
+      "title": "League Of Legends",
+      "cover": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b",
+      "link": "https://www.youtube.com/embed/Y2SMYnsDRDk",
+      "system": "PC",
+      "description": "League of Legends, também conhecido como LOL, é um jogo de estratégia em que duas equipes de cinco poderosos Campeões se enfrentam para destruir a base uma da outra. "
+    },
+    {
+      "id": 6,
+      "title": "God of War Ragnarök",
+      "cover": "https://cdn1.epicgames.com/spt-assets/edaff839f0734d16bc89d2ddb1dc9339/steel-magnolia-15owu.jpg?h=270&quality=medium&resize=1&w=480",
+      "link": "https://www.youtube.com/embed/x6oF3Jxu7X0",
+      "system": "PlayStation 4",
+      "description": "Em God of War: Ragnarok, acompanhe a jornada de Kratos e Atreus pelos Nove Reinos em busca de respostas, enquanto as forças asgardianas preparam-se para a guerra. Atreus está à procura de conhecimento para entender a profecia de Loki e o papel dele no Ragnarok."
+    },
+    {
+      "id": 7,
+      "title": "The Last of Us",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/b/be/The_Last_of_Us_capa.png",
+      "link": "https://www.youtube.com/embed/kE7li_u1nmg",
+      "system": "PlayStation 4",
+      "description": "Em uma civilização devastada, em que infectados e sobreviventes veteranos estão à solta, Joel, um protagonista abatido, é contratado para tirar uma garota de 14 anos, Ellie, de uma zona de quarentena militar."
+    },
+    {
+      "id": 8,
+      "title": "Horizon Zero Dawn",
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202009/2923/jAT7HjpL49A62bU7hLKXJ96b.png",
+      "link": "https://www.youtube.com/embed/9axpikOIHEo",
+      "system": "PlayStation 4",
+      "description": "Em um mundo onde as máquinas dominam o planeta e a raça humana vive em sociedades primitivas, uma mulher encara a tarefa de encontrar seu destino entre os restos do seu antigo passado. Como Aloy, você vai ter que lutar em um mundo infectado por máquinas e desvelar os segredos que existem enterrados no mais fundo da terra. Você atenderá o chamado… ou cairá no esquecimento?"
+    },
+    {
+      "id": 9,
+      "title": "Spider-Man: Miles Morales",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/PRfYtTZQsuj3ALrBXGL8MjAH.jpg",
+      "link": "https://www.youtube.com/embed/qjRzm9A7DU4",
+      "system": "PlayStation 4",
+      "description": "Após os eventos de Marvel's Spider-Man Remastered, o adolescente Miles Morales está se ajustando à sua nova casa enquanto segue os passos de seu mentor, Peter Parker, como um novo Homem-Aranha. Mas quando uma feroz luta pelo poder ameaça destruir seu novo lar, o aspirante a herói percebe que com grande poder, também deve vir uma grande responsabilidade. Para salvar toda a Nova York da Marvel, Miles deve assumir o manto do Homem-Aranha e possuí-lo."
+    },
+    {
+      "id": 10,
+      "title": "Helldivers 2",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg?t=1717621025",
+      "link": "https://www.youtube.com/embed/Ahx35iVJn10",
+      "system": "PlayStation 4",
+      "description": "Vista o uniforme de um Helldiver, uma classe de soldados de elite cuja missão é espalhar a paz, a liberdade e a democracia gerenciada usando as maiores, mais iradas e mais explosivas armas da galáxia."
+    },
+    {
+      "id": 11,
+      "title": "Ger of War 4",
+      "cover": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/14/1459949715-gears-4-boxart.jpg?crop=1xw:0.392811296534018xh;center,top&resize=640:*",
+      "link": "https://www.youtube.com/embed/Bro5YugsPDg",
+      "system": "Xbox Series X",
+      "description": "A série foca no conflito entre a humanidade, os reptilianos humanoides subterrâneos conhecidos como Locust Horde, e os seus homólogos modificados, os Lambent. A franquia consistem em jogos de tiro em terceira pessoa, os quais foram suplementados por uma série de quadrinhos e cinco romances."
+    },
+    {
+      "id": 12,
+      "title": "Its Take Two",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0815/UkFiVyReEoiV28rXgyHYKhfS.png",
+      "link": "https://www.youtube.com/embed/ohClxMmNLQQ",
+      "system": "Xbox Series X",
+      "description": "Jogue no papel do conflituoso casal Cody e May, dois humanos transformados em bonecos por um feitiço. Juntos, presos em um mundo fantástico onde o imprevisível está sempre à espreita, são obrigados a trabalhar para salvar seu relacionamento conturbado."
+    },
+    {
+      "id": 13,
+      "title": "Halo Infinite",
+      "cover": "https://www.showmetech.com.br/wp-content/uploads//2021/12/Review-Halo-Infinite-e-o-retorno-da-franquia-ao-seu-melhor.jpg.webp",
+      "link": "https://www.youtube.com/embed/PyMlV5_HRWk",
+      "system": "Xbox Series X",
+      "description": "Halo Infinite apresenta uma nova aventura protagonizada por Master Chief, que está em busca da inteligência artificial Cortana, desaparecida após os eventos de Halo 5: Guardians."
+    },
+    {
+      "id": 14,
+      "title": "Grounded",
+      "cover": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000068827/cf0ab0f20e7f588ba732a072e34f1ef86cd5430880badf7dd134c7d547bf2d44",
+      "link": "https://youtu.be/57iHvc7StMI",
+      "system": "Xbox Series X",
+      "description": "Grounded é um jogo de sobrevivência que pode ser jogado em primeira ou terceira pessoa. No jogo, o protagonista é reduzido ao tamanho de uma formiga e deve se esforçar para sobreviver em um quintal."
+    },
+    {
+      "id": 15,
+      "title": "Hi-Fi Rush",
+      "cover": "https://images.ctfassets.net/tehqz6o3okv8/4LmAdp690es8G7RyxI6GzO/bf0d249827a52a953644e8d638d632da/Pulse_Key_Art_02_Final02.jpg?q=70&fm=png",
+      "link": "https://www.youtube.com/embed/jqE0BLSojl8",
+      "system": "Xbox Series X",
+      "description": "Hi-Fi RUSH é um jogo de pancadaria colorido e acessível que vai agradar aos fãs do gênero e também aos iniciantes."
+    },
+    {
+      "id": 16,
+      "title": "Super Smash Bros. Ultimate",
+      "cover": "https://i.pinimg.com/originals/26/5b/ab/265bab14d5495d37725bca3e6960347b.jpg",
+      "link": "https://www.youtube.com/embed/cVwT_T8v5yU",
+      "system": "Nintendo Switch",
+      "description": "O jogo traz diversos cenários, baseados nos jogos em que os lutadores fazem parte, escolha o de sua preferência e lute até restar apenas um ganhador. São diversos itens para pegar e usar contra seus adversários, e ajudá-lo em sua vitória. Então escolha seu personagem favorito e batalhe contra todos seus adversários."
+    },
+    {
+      "id": 17,
+      "title": "Super Mario Party",
+      "cover": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000014158/0ca41128bf40b7e0dc32a046a659ecdc69e4d7cc7a3257d6280be665d2f795b5",
+      "link": "https://www.youtube.com/embed/cVwT_T8v5yU",
+      "system": "Nintendo Switch",
+      "description": "ire o jogo sobre os adversários enquanto você corre pelo tabuleiro para coletar o máximo de estrelas no modo de jogo de tabuleiro da série original Mario Party para quatro jogadores* - agora com o recém-adicionado modo de jogo online.** Junte-se ao frenesi total com amigos e família!"
+    },
+    {
+      "id": 18,
+      "title": "Animal Crossing: New Horizons",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg",
+      "link": "https://www.youtube.com/embed/_3YNL0OWio0",
+      "system": "Nintendo Switch",
+      "description": "Animal Crossing: New Horizons é o mais recente jogo da popular série de simulação de vida da Nintendo. Neste jogo, você é convidado a construir uma vida tranquila em uma ilha paradisíaca. O jogo começa quando você embarca em um avião para uma ilha deserta, juntamente com dois outros residentes sorteados aleatoriamente."
+    },
+    {
+      "id": 19,
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/25/Zelda_TotK_capa.jpg/270px-Zelda_TotK_capa.jpg",
+      "link": "https://www.youtube.com/embed/uHGShqcAHlQ",
+      "system": "Nintendo Switch",
+      "description": "Nesta continuação de The Legend of Zelda: Breath of the Wild, você decidirá seu próprio caminho pelas extensas paisagens de Hyrule e pelas misteriosas ilhas flutuantes nos vastos céus. Será que você conseguirá aproveitar o poder das novas habilidades de Link para lutar contra as forças malévolas que ameaçam o reino?"
+    },
+    {
+      "id": 20,
+      "title": "Pokémon Scarlet e Violet",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/8/89/Pok%C3%A9mon_Scarlet_Violet_artes.jpg",
+      "link": "https://www.youtube.com/embed/tfQj1aQz8d8",
+      "system": "Nintendo Switch",
+      "description": "você conhecerá o Professor Turo. Sua amiga, Nemona, é uma experiente Treinadora de Pokémon e atua como uma guia confiável para você em suas aventuras. Ele atua como diretor da academia e, como você é um aluno novo, ele o ensinará muitas coisas sobre sua escola."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "system": "PC",
+      "color": "#C5C3C0"
+    },
+    {
+      "id": 2,
+      "system": "Nintendo Switch",
+      "color": "#E60012"
+    },
+    {
+      "id": 3,
+      "system": "PlayStation 4",
+      "color": "#0070D1"
+    },
+    {
+      "id": 4,
+      "system": "Xbox Series X",
+      "color": "#107B10"
+    },
+    {
+      "id": "fe81",
+      "system": "Mobile",
+      "color": "#281101"
+    },
+    {
+      "id": "a2a6",
+      "system": "GameBoy",
+      "color": "#fa00d0"
+    }
+  ]
+}
